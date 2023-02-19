@@ -1,0 +1,5 @@
+insert into students(rollNo ,name ,clas ,guardian) values(1,'Abhijeet','X','A k tiwari')
+insert into students(rollNo,name ,clas ,guardian) values(2,'Abhishek','XII','A k tiwari')
+insert into students(rollNo ,name ,clas ,guardian) values(3,'A k tiwari','Passed out','B N tiwari')
+insert into students(rollNo ,name ,clas ,guardian) values(4,'Sunita tiwari','passed out','R Mishra')
+insert into students(rollNo ,name ,clas ,guardian) values(5,'nishant','VIII','N k tiwari')
